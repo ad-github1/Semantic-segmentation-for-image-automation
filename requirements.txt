@@ -1,0 +1,12 @@
+# Core dependencies
+torch
+torchvision
+numpy
+opencv-python-headless
+Pillow
+streamlit
+
+# Optional but recommended
+tqdm
+albumentations
+matplotlib
