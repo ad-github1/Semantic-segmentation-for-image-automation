@@ -24,9 +24,10 @@ Optimized for real-time edge deployment using TorchScript and OpenCV post-proces
 
 ### Setup
 ```bash
-git clone https://github.com/<your-username>/Semantic-Segmentation-ENet.git
+git clone https://github.com/ad-github1/Semantic-Segmentation-ENet.git
 cd Semantic-Segmentation-ENet
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
+
